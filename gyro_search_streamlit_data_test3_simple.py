@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import LabelEncoder
-from sklearn.preprocessing import OneHotEncoder
+
 from sklearn.preprocessing import MinMaxScaler
 import streamlit as st
 import matplotlib.pyplot as plt 
