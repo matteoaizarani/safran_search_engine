@@ -108,7 +108,7 @@ def main():
         
         
         st.subheader("Top 3 closest products:")
-        pdf_folder = r'C:/Users/FX645229/Desktop/stage/produits' #where my pdf files are located
+        pdf_folder = "produits" #where my pdf files are located
         for idx in result:
             product_name = target[idx]
             pdf_filename = (f"{product_name}.pdf")
