@@ -6,7 +6,7 @@ Ce dépôt contient une application Streamlit pour trouver le gyroscope adapté 
 - `requirements.txt` : dépendances Python
 
 ## Usage
-1. Aller sur Streamlit Cloud (lien ci-dessous).  
+1. Aller sur Streamlit Cloud: https://safransearchengine-o6fwusuaa6niadmnv8bbbv.streamlit.app/ 
 2. L’application se lancera automatiquement.
 
 ## Déploiement
