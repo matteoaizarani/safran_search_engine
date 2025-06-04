@@ -109,7 +109,7 @@ def main():
         
         st.subheader("Top 3 closest products:")
         pdf_folder = "produits" #where my pdf files are located
-        st.write("📂 Contenu de", pdf_folder, ":", os.listdir(pdf_folder))
+        #st.write("📂 Contenu de", pdf_folder, ":", os.listdir(pdf_folder))
         for idx in result:
             product_name = target[idx]
             pdf_filename = (f"{product_name}.pdf")
